@@ -1,0 +1,29 @@
+//福利源，懂得都懂，多线路添加不进去就单独复制链接添加吧
+{
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/ErShuaiL/TVBOX/refs/heads/main/18TV1",
+            "name": "18tv1"
+        },
+        {
+            "url": "https://alist.ywsj.cf/d/Cloudreve/tvbox/yuan/18/18tv.json",
+            "name": "18tv2"
+        },
+        {
+            "url": "https://alist.ywsj.cf/d/Cloudreve/tvbox/yuan/18/ku18tv.json",
+            "name": "18tv3"
+        },
+        {
+            "url": "http://118.89.95.193/18tv2.json",
+            "name": "18tv4"
+        },	
+        {
+            "url": "http://118.89.95.193/18tv网友分享.json",
+            "name": "18tv5"
+        },		
+        {
+            "url": "http://118.89.95.193/18tv网友分享2.json",
+            "name": "18tv6"
+        }		
+    ]
+}
